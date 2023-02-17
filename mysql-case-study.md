@@ -17,3 +17,15 @@ MySQL er et gratis og åpen kildekode relasjonelt databasehåndteringssystem, el
 Det er veldig utbredt innen webutvikling, da i kombinasjon med programmeringsspråk som PHP og Python for å lage dynamiske nettsider og webapplikasjoner. Det brukes også i mange andre sammenhenger, der kanskje mest blant firma som håndterer store mengder data.
 
 Med MySQL kan du opprette og administrere ulike databaser, inkludert tabeller, kolonner og relasjonene mellom disse. Du kan også gjøre veldig komplekse spørringer for å hente og filtrere dataene dine. MySQL er per i dag en av de mest utbredte RDBMS-ene og fortsetter stadig å utvikle seg og forbedre sin funksjonalitet.
+
+## Historie
+
+## Hvordan Det Funker
+
+## Styrker
+
+## Svakheter
+
+## MySQL Vs PostgreSQL
+
+## Oppsummering
