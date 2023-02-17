@@ -56,8 +56,8 @@ Espen Holm Pedersen (PederZzen)
 
 ## Referanser
 
-https://no.wikipedia.org/wiki/MySQL
-https://dev.mysql.com/doc/
-https://www.integrate.io/blog/the-sql-vs-nosql-difference/
-https://www.hostinger.com/tutorials/what-is-mysql
-https://www.careerride.com/MySQL-disadvantages.aspx
+- https://no.wikipedia.org/wiki/MySQL
+- https://dev.mysql.com/doc/
+- https://www.integrate.io/blog/the-sql-vs-nosql-difference/
+- https://www.hostinger.com/tutorials/what-is-mysql
+- https://www.careerride.com/MySQL-disadvantages.aspx
