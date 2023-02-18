@@ -59,7 +59,7 @@ Et eksempel der det vil lønne seg å velge PostgreSQL framfor MySQL er dersom d
 
 Med mange sterke sider, men også noen svakheter er MySQL altså et kraftig verktøy, som brukes av mange av de største bedrifter og organisasjoner. Til å være en relativt gammel teknologi, er det fremdeles veldig populært og i stadig utvikling. Alt i alt er MySQL et veldig godt alternativ til mange bruksområder.
 
-Espen Holm Pedersen (PederZzen)
+**Espen Holm Pedersen (PederZzen)**
 
 ## Referanser
 
